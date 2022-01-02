@@ -39,8 +39,8 @@ Under construction
 ---
 
 ### Education
-- Academy of Public Administration under the President of the Republic of Kazakhstan, Nur-Sultan - MDR/master's degree. Specialty: State and local administration, master of public policy. Graduated in 2019.
-- Kazakh National Agrarian University, Almaty. Specialty: veterinary and sanitary doctor. Graduated in 2008.
+- Academy of Public Administration under the President of the Republic of Kazakhstan, Nur-Sultan - MDR/master's degree. Speciality: State and local administration, master of public policy. Graduated in 2019.
+- Kazakh National Agrarian University, Almaty. Speciality: veterinary and sanitary doctor. Graduated in 2008.
 
 ---
 
@@ -56,7 +56,7 @@ International Training Program on "Agricultural Extension Approaches for Sustain
 
 ---
 
-### Languagest
+### Languages
 - English - Intermediate
 - Kazakh - Native
 - Russian - Fluent
