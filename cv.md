@@ -33,7 +33,9 @@ My goal is to learn frontend development and find a good remote job.
 
 ### Code example
 ```
-Under construction
+function multiply(a, b) {
+  return a * b;
+}
 ```
 
 ---
